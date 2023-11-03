@@ -1,4 +1,4 @@
-# smart-dustbin-using-arduino
+# Smart-dustbin-using-arduino
 The smart dust bin, powered by Arduino, is equipped with sensors to identify objects in close proximity. A signal is then transmitted to a servo motor, which unhinges the lid. The motor is programmed to shut the lid after a certain duration.
 # Smart Dustbin Project README
 
